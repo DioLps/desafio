@@ -1,0 +1,27 @@
+body{
+	background-color: #efefef;
+	font-family: 'Roboto', sans-serif;
+}
+nav>a{
+	font-size: 25pt!important;
+}
+.container{
+	background-color: white;
+	padding: 30px;
+	border-radius: 4px;
+}
+thead.bg-primary{
+	color: white;
+}
+#listaAcoes{
+	text-align: center;
+	padding: 0;
+	display: inline-flex;
+	list-style: none;
+}
+#listaAcoes>li{
+	margin: auto 10px 10px auto;
+}
+.fa-trash{
+	color: #dc3545;
+}
